@@ -15,12 +15,11 @@ Maven 3.8 o superior
 MySQL 8.0 o superior
 
 ## Diagrama ER
-![Diagrama de Base de Datos](/Images/Diagrama.png)
 
 ## Instalación
 
 1. Clona el repositorio:
-    Git clone git@github.com:Pyrooos/Challenge-Foro-Hub.git
+    Git clone 
 
 
 2. Configura la base de datos en application.properties:
